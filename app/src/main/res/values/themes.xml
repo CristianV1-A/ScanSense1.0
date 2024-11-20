@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="Theme.ScanSense" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary"> #FFA500 </item>
+        <item name="colorPrimaryDark">#9ACD32</item>
+        <item name="colorAccent"> #FFA500 </item>
+    </style>
+</resources>
